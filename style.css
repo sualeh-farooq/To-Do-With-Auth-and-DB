@@ -1,4 +1,12 @@
- nav button{
+ nav button {
     border-radius: 5px;
     padding: 4px;
+ }
+
+ .myContainer {
+   width: 50%;
+   min-height: 500px;
+   margin: 100px auto;
+   background: #000;
+
  }
